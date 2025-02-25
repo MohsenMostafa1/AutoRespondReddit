@@ -12,6 +12,8 @@
 
 5- Avoids actual commenting on Reddit (commented out for safety).
 
+### Implementation of code
+
 praw: A Python library for interacting with the Reddit API.
 
 torch: PyTorch, used for deep learning tasks.
